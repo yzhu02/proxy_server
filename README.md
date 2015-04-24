@@ -1,4 +1,4 @@
-# Node.js exercise -- Proxy Server
+# Node.js training prework -- Proxy Server
 
 ## Description
 * The proxy server transfers the request to the specified destination server and transfer the response to the client.
